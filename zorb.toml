@@ -1,0 +1,10 @@
+[package]
+name = "@logging/env-logger"
+version = "0.11.5"
+edition = "2026"
+authors = ["The Zeta Foundation <team@z-lang.org>"]
+description = "Environment-driven logging for Zeta — configure via ZETA_LOG env variable"
+license = "MIT"
+repository = "https://github.com/murphsicles/env-logger"
+keywords = ["logging", "env", "debug"]
+categories = ["development-tools::logging"]
